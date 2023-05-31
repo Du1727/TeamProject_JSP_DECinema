@@ -1,8 +1,5 @@
 # TeamProject_JSP_DECinema
 
-<iframe width="956" height="538" src="https://youtu.be/i4lIowzN4JE?t=0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 ## 🖥️ 프로젝트 소개
 JSP를 사용하여, 영화예매사이트를 구현한다.
 
