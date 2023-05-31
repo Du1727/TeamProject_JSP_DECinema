@@ -16,9 +16,9 @@ JAVA / JSP / MySQL
 
 
 ## 📌 담당 기능
-· 결제시스템 연동 및 구현
-· 결제페이지 구현
-· 문의게시판 구현
+· 결제시스템 연동 및 구현<br>
+· 결제페이지 구현<br>
+· 문의게시판 구현<br>
 
 ![image](https://github.com/Du1727/TeamProject_JSP_DECinema/assets/117519801/e72d3e2f-a17f-47a6-ac19-932fd89f63d0)
 ![image](https://github.com/Du1727/TeamProject_JSP_DECinema/assets/117519801/25598d4e-e599-4e76-a716-7d122fec4327)
