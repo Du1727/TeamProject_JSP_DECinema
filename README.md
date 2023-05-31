@@ -10,7 +10,7 @@ JSP를 사용하여, 영화예매사이트를 구현한다.
 <br>
 
 
-### ⚙️ 개발 환경
+## ⚙️ 개발 환경
 JAVA / JSP / MySQL <br>
 VSCode / Eclipse / HeidiSQL
 
